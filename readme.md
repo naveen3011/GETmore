@@ -53,12 +53,11 @@ You can use the following commands to seed the database with some sample users a
 ```
 # Import data
 npm run data:import
+```
 
-# Destroy data
-npm run data:destroy
+
 ```
 # Sample User Logins
-```
 robert@example.com (Customer)
 12345
 ```
