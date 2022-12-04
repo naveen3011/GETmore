@@ -2,7 +2,7 @@
 ### Live on (https://getmore.onrender.com/)
 > eCommerce platform built with the MERN stack & Redux.
 
-[Screenshot1]()
+![Screenshot](https://github.com/naveen3011/GETmore/blob/main/Screenshot1.png)
 
 ## Features
 
