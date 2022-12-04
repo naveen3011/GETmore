@@ -57,5 +57,8 @@ npm run data:import
 # Destroy data
 npm run data:destroy
 ```
+Sample User Logins
 
-
+robert@example.com (Customer)
+12345
+```
