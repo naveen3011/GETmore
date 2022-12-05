@@ -1,4 +1,4 @@
-# GETmore eCommerce Platform
+# GETmore E-commerce Platform
 ### Live on (https://getmore.onrender.com/)
 > eCommerce platform built with the MERN stack & Redux.
 
